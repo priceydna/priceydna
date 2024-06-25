@@ -1,6 +1,7 @@
+# About me 
 - 👋 Hi, I’m @priceydna
 - 👀 I’m interested in analysis of NGS data
-- 🌱 I’m currently learning R: ChIP-seq, RNA-seq, Hi-C data focusing on DNA repeats
+- 🌱 I’m currently learning: ChIP-seq, RNA-seq, scRNA-seq and Hi-C data - focusing on DNA repeats
 - 💞️ I’m looking to collaborate on NGS analysis projects
 - 📫 How to reach me @priceydna twitter
 
